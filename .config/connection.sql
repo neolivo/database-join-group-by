@@ -1,0 +1,1 @@
+-- ini adalah file untuk menguji koneksi ke db
